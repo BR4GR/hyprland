@@ -12,6 +12,4 @@ yay -S hyprland-bin kitty waybar-hyprland \
     dracula-gtk-theme dracula-icons-git xdg-desktop-portal-hyprland-git
 ```
 
-Or you can use the attached script "set-hypr" to install everything for you.
-
-8QuVREC6sMXUrrNbu9aR98T8mVxOi42CPAsX
+Or you can use the attached script "set-hypr" to install everything for you
